@@ -1,0 +1,51 @@
+export const data = [
+	{
+		name: 'karthi',
+		Email: 'kathi@gmail.com',
+		Phone: 123456789,
+		enrollNum: 1235112323,
+		dataOfAdmission: '08-Dec,2021',
+	},
+	{
+		name: 'karthi',
+		Email: 'kathi@gmail.com',
+		Phone: 123456789,
+		enrollNum: 1235112323,
+		dataOfAdmission: '08-Dec,2021',
+	},
+	{
+		name: 'karthi',
+		Email: 'kathi@gmail.com',
+		Phone: 123456789,
+		enrollNum: 1235112323,
+		dataOfAdmission: '08-Dec,2021',
+	},
+	{
+		name: 'karthi',
+		Email: 'kathi@gmail.com',
+		Phone: 123456789,
+		enrollNum: 1235112323,
+		dataOfAdmission: '08-Dec,2021',
+	},
+	{
+		name: 'karthi',
+		Email: 'kathi@gmail.com',
+		Phone: 123456789,
+		enrollNum: 1235112323,
+		dataOfAdmission: '08-Dec,2021',
+	},
+	{
+		name: 'karthi',
+		Email: 'kathi@gmail.com',
+		Phone: 123456789,
+		enrollNum: 1235112323,
+		dataOfAdmission: '08-Dec,2021',
+	},
+	{
+		name: 'karthi',
+		Email: 'kathi@gmail.com',
+		Phone: 123456789,
+		enrollNum: 1235112323,
+		dataOfAdmission: '08-Dec,2021',
+	},
+];
